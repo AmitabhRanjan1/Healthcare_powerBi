@@ -13,4 +13,4 @@ This repository contains a project focused on analyzing healthcare data using Po
 ## Tools and Libraries
 
 - Power BI
-- Data Sources: CSV, Excel, SQL databases (customize as per your project specifics)
+- Data Sources: CSV, Excel,power point
