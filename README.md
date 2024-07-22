@@ -14,3 +14,5 @@ This repository contains a project focused on analyzing healthcare data using Po
 
 - Power BI
 - Data Sources: CSV, Excel,power point
+![Screenshot 2024-07-22 232156](https://github.com/user-attachments/assets/ea505403-4864-4638-a9bb-76fb08044a1e)
+![Screenshot 2024-07-22 232218](https://github.com/user-attachments/assets/b01a7a26-e41f-4601-91c9-25c298b128a8)
